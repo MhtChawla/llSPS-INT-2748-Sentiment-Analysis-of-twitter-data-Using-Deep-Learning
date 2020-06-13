@@ -8,3 +8,5 @@ The dataset is imported.
 The dataset got removed punctuation and numbers.
 The dataset got all words changed into lower case.
 The dataset got stemming done.
+
+using a web UI to enter the text and to check the predicted result
